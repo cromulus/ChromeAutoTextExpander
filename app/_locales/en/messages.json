@@ -1,14 +1,14 @@
 {
 	"EXTENSION_NAME": {
-		"message": "Auto Text Expander for Google Chrome™",
+		"message": "No Meetings for Google Chrome™",
 		"description": "Extension name for the Chrome webstore."
 	},
 	"EXTENSION_SHORTNAME": {
-		"message": "(txt)^r",
+		"message": "NoMeeting",
 		"description": "Extension short name for the Chrome webstore (< 12 chars)."
 	},
 	"EXTENSION_TITLE": {
-		"message": "Auto Text Expander",
+		"message": "No Meetings",
 		"description": "Extension short title."
 	},
 	"EXTENSION_DESCRIPTION": {
@@ -20,7 +20,7 @@
 		"description": "Omnibar (url address bar) trigger for extension."
 	},
 	"BROWSER_ACTION_TITLE": {
-		"message": "Click to view options for AutoTextExpander",
+		"message": "Click to view options for No Meeting",
 		"description": "Browser action default title."
 	},
 	"TITLE_OPTIONS_PAGE": {
