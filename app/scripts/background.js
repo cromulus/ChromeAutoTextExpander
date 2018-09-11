@@ -565,7 +565,7 @@ function processVersionUpgrade(oldVersion)
         // Upgrade database to latest version and supply version notes
         upgradeShortcutsToLatest(upgradeNotes);
         break;
-
+      case '1.9.5':
       default: break;
     }
   });
