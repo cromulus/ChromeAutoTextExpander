@@ -28,14 +28,7 @@
 		"description": "Title for the options page"
 	},
 	"TEXT_TIPS_LIST": {
-		"message": "<li>
-			<strong>Disable the extension for the page</strong><br />
-			Toggle via the <pre id='iconText' class='inline-code'>(txt)</pre> icon next to the url bar.
-		</li>
-		<li>
-			<strong>Trigger after typing a space</strong><br/>
-			Add a space to the end of your shortcut to trigger after typing a space.
-		</li>",
+		"message": "",
 		"description": "Body text of tips list popup."
 	},
 	"TITLE_DEMO_PAGE": {
