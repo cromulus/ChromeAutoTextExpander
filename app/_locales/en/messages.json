@@ -1,6 +1,6 @@
 {
 	"EXTENSION_NAME": {
-		"message": "No Meetings for Google Chrome™",
+		"message": "NoMeeting",
 		"description": "Extension name for the Chrome webstore."
 	},
 	"EXTENSION_SHORTNAME": {
@@ -8,7 +8,7 @@
 		"description": "Extension short name for the Chrome webstore (< 12 chars)."
 	},
 	"EXTENSION_TITLE": {
-		"message": "No Meetings",
+		"message": "NoMeeting",
 		"description": "Extension short title."
 	},
 	"EXTENSION_DESCRIPTION": {
